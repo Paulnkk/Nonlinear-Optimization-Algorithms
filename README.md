@@ -1,6 +1,6 @@
 # Nonlinear Optimization Algorithms
 
-During my time as Scientific Assistant at the Karlsruhe Institute of Technology (Germany) I implemented various Optimization Algorithms solving unrestricted nonlinear Problems; Gradient-Descent-Method, Newton-Method, Conjugate-Gradient-Descent-Method, BFGS-Method and a Trust-Region-Method in Python.
+During my time as Scientific Assistant at the Karlsruhe Institute of Technology (Germany) I implemented various standard Optimization Algorithms solving unrestricted nonlinear Problems; Gradient-Descent-Method, Newton-Method, Conjugate-Gradient-Descent-Method, BFGS-Method and a Trust-Region-Method in Python.
 
 In addition, I implemented an Armijo linesearch.
 
